@@ -1,0 +1,18 @@
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\bin\Debug\WcFklient.exe.config
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\bin\Debug\WcFklient.exe
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\bin\Debug\WcFklient.pdb
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\obj\Debug\WcFklient.csprojResolveAssemblyReference.cache
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\obj\Debug\WcFklient.Form1.resources
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\obj\Debug\WcFklient.Properties.Resources.resources
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\obj\Debug\WcFklient.csproj.GenerateResource.Cache
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\obj\Debug\WcFklient.exe
+c:\users\xstor\documents\visual studio 2015\Projects\WcFklient\WcFklient\obj\Debug\WcFklient.pdb
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\bin\Debug\WcFklient.exe.config
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.exe
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.pdb
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\bin\Debug\WcFklient.exe
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\bin\Debug\WcFklient.pdb
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.csprojResolveAssemblyReference.cache
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.Form1.resources
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.Properties.Resources.resources
+X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.csproj.GenerateResource.Cache
