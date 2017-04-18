@@ -20,9 +20,11 @@ namespace WcFklient
         private void button1_Click(object sender, EventArgs e)
         {
             ServiceReference1.Service1Client client = new ServiceReference1.Service1Client();
-            string name;
-            name = client.GetData(textBox1.Text);
-            label1.Text = name;
+           ServiceReference1.Task k = new ServiceReference1.Task();
+            ServiceReference1.Task t = new ServiceReference1.Task();
+            t.value = textBox1.Text;
+             k=client.gettask(t);
+            label1.Text = k.value;
          
         }
     }

@@ -19,3 +19,9 @@ X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\W
 C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\bin\Debug\WcFklient.exe.config
 C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\obj\Debug\WcFklient.exe
 C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\obj\Debug\WcFklient.pdb
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\obj\Debug\WcFklient.csprojResolveAssemblyReference.cache
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\obj\Debug\WcFklient.Form1.resources
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\obj\Debug\WcFklient.Properties.Resources.resources
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\obj\Debug\WcFklient.csproj.GenerateResource.Cache
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\bin\Debug\WcFklient.exe
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\bin\Debug\WcFklient.pdb
