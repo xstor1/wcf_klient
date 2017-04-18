@@ -16,3 +16,6 @@ X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\W
 X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.Form1.resources
 X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.Properties.Resources.resources
 X:\programko\3 rocnikl\form\Projekt_zalohy\wcfko\WcFklient\WcFklient\obj\Debug\WcFklient.csproj.GenerateResource.Cache
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\bin\Debug\WcFklient.exe.config
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\obj\Debug\WcFklient.exe
+C:\Users\storvojtech\Source\Repos\wcf_klient\WcFklient\WcFklient\obj\Debug\WcFklient.pdb

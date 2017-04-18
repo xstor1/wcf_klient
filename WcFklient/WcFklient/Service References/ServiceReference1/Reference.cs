@@ -22,6 +22,9 @@ namespace WcFklient.ServiceReference1 {
         [System.NonSerializedAttribute()]
         private System.Runtime.Serialization.ExtensionDataObject extensionDataField;
         
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string valueField;
+        
         [global::System.ComponentModel.BrowsableAttribute(false)]
         public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
             get {
@@ -29,6 +32,19 @@ namespace WcFklient.ServiceReference1 {
             }
             set {
                 this.extensionDataField = value;
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string value {
+            get {
+                return this.valueField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.valueField, value) != true)) {
+                    this.valueField = value;
+                    this.RaisePropertyChanged("value");
+                }
             }
         }
         
@@ -114,10 +130,10 @@ namespace WcFklient.ServiceReference1 {
         System.Threading.Tasks.Task<string> GetDataAsync(string value);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/gettask", ReplyAction="http://tempuri.org/IService1/gettaskResponse")]
-        WcFklient.ServiceReference1.Task gettask(int iddemon);
+        WcFklient.ServiceReference1.Task gettask(WcFklient.ServiceReference1.Task k);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/gettask", ReplyAction="http://tempuri.org/IService1/gettaskResponse")]
-        System.Threading.Tasks.Task<WcFklient.ServiceReference1.Task> gettaskAsync(int iddemon);
+        System.Threading.Tasks.Task<WcFklient.ServiceReference1.Task> gettaskAsync(WcFklient.ServiceReference1.Task k);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetDataUsingDataContract", ReplyAction="http://tempuri.org/IService1/GetDataUsingDataContractResponse")]
         WcFklient.ServiceReference1.CompositeType GetDataUsingDataContract(WcFklient.ServiceReference1.CompositeType composite);
@@ -161,12 +177,12 @@ namespace WcFklient.ServiceReference1 {
             return base.Channel.GetDataAsync(value);
         }
         
-        public WcFklient.ServiceReference1.Task gettask(int iddemon) {
-            return base.Channel.gettask(iddemon);
+        public WcFklient.ServiceReference1.Task gettask(WcFklient.ServiceReference1.Task k) {
+            return base.Channel.gettask(k);
         }
         
-        public System.Threading.Tasks.Task<WcFklient.ServiceReference1.Task> gettaskAsync(int iddemon) {
-            return base.Channel.gettaskAsync(iddemon);
+        public System.Threading.Tasks.Task<WcFklient.ServiceReference1.Task> gettaskAsync(WcFklient.ServiceReference1.Task k) {
+            return base.Channel.gettaskAsync(k);
         }
         
         public WcFklient.ServiceReference1.CompositeType GetDataUsingDataContract(WcFklient.ServiceReference1.CompositeType composite) {
